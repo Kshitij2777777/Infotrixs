@@ -1,8 +1,8 @@
-sudo apt update 
+* sudo apt update 
 
 The sudo apt update command is used to update the local package index and provide the system with the latest information about available packages.
 
-sudo apt upgrade
+* sudo apt upgrade
 The sudo apt upgrade command downloads and installs the latest packages for a system, replacing any older versions. This command can be used to free up system memory
 
 1. Install Apache server on Ubuntu
