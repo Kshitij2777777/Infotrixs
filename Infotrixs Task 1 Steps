@@ -39,7 +39,7 @@ CREATE USER 'kshitij'@localhost IDENTIFIED BY 'Kshitij@123';
 CREATE DATABASE kshitijwordpress;
 
 8. Grant all privilges on the database 'wp' to the newly created user
-GRANT ALL PRIVILEGES ON wp.* TO 'wp_user'@localhost;
+GRANT ALL PRIVILEGES ON kshitijwordpress.* TO 'kshitij'@localhost;
 crtl+d to exit from sql terminal
 
 9. Download wordpress
